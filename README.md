@@ -3,6 +3,7 @@ Classical Mechanics Calculator is a terminal-based Python solver spanning 10 cha
 
 
 Capabilities Summary
+
 Chapter 1 — Kinematics
 
 Solves all 5 classical kinematic equations for any unknown: displacement, initial/final velocity, acceleration, and time
