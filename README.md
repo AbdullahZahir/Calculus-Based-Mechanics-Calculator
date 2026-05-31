@@ -61,6 +61,9 @@ Chapter 10 — Calculus-Based Physics
 Four sub-modes grounded in derivative and integral relationships:
 
 Calculus Kinematics: derives x(t), v(t), a(t) from integration/differentiation of constant-acceleration equations with initial conditions
+
 Calculus Rotational Kinematics: full rotational analog using θ(t), ω(t), α(t) with calculus derivations
+
 Calculus Work-Energy: work as the integral of force over displacement (W = ∫F dx), KE from the work-energy theorem, spring PE from integrating Hooke's Law (∫kx dx), and conservation of total mechanical energy
+
 Calculus Oscillations: evaluates x(t) = A·cos(ωt+φ), v(t) = dx/dt, and a(t) = d²x/dt² as explicit derivative relationships; recovers amplitude from initial conditions and angular frequency from the SHM differential equation identity a = −ω²x
